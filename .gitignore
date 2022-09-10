@@ -1,5 +1,8 @@
 *.png
 
-.DS_Store
-
 demo/
+
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
