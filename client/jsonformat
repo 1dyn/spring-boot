@@ -1,0 +1,14 @@
+{
+    "name" : "steve",
+    "age" : 10
+}
+
+{
+	"header" : {
+		"response_code" : "OK"
+	},
+	"body" : {
+		"name" : "spring boot",
+		"age" : 1024
+	}
+}
